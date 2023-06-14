@@ -1,4 +1,4 @@
-BillTalk is a mobile application designed to assist visually impaired individuals in identifying and distinguishing different denominations of Jordanian banknotes. This application utilizes advanced image processing and machine learning algorithms to provide accurate detection and audio feedback for five Jordanian denominations, including the new edition of 1 JD, 20 JD, and 50 JD bills.
+BillTalk is a mobile application designed to assist Blind and visually impaired individuals in identifying and distinguishing different denominations of Jordanian banknotes. This application utilizes advanced image processing and machine learning algorithms to provide accurate detection and audio feedback for five Jordanian denominations, including the new edition of 1 JD, 20 JD, and 50 JD bills.
 
 ## Key Features
 
